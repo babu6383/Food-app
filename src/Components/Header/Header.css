@@ -40,6 +40,10 @@
     
     .header-contents{
         max-width: 45%;
+        
+    }
+    .header-contents button{
+        display: none;
     }
 }
 
@@ -53,5 +57,8 @@
     }
     .header-contents button{
         padding: 2vw 4vw;
+    }
+    .header-contents button{
+        display: none;
     }
 }
